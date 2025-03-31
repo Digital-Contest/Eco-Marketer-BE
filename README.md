@@ -30,3 +30,20 @@
   - AWS EC2
   - AWS RDS
 
+## 🔗 ERD
+
+---
+![Eco-Marketer](https://github.com/user-attachments/assets/beec3935-7b51-4337-a5be-3651ec6240c6)
+
+
+## ♻ CI/CD
+
+---
+![hangmancicd drawio](https://github.com/new-writon/Writon-Be/assets/106163272/341ed4ee-8d58-4be4-9c9a-6e229977a4a0)
+
+
+## ⚙️ System Architecture
+
+---
+
+![eco-maketer drawio](https://github.com/user-attachments/assets/d73c6d03-e43b-4e2e-aed2-d7444cd53ce0)
